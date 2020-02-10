@@ -3,9 +3,7 @@ This repository is my personal review for being a better canadiate of a master p
 
 ## Linear Data Structure
 
-### 1. Singly Linked List
-
-### 2. Queue and Stack
+### 1. Queue and Stack
 
 Queue and Stack are two fundamental data structures. 
 
